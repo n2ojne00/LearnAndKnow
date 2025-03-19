@@ -1,5 +1,5 @@
 import { StatusBar } from 'expo-status-bar';
-import { Dimensions, StyleSheet, Text, View } from 'react-native';
+import { Dimensions, Text, View } from 'react-native';
 import {
   LineChart,
   BarChart,
